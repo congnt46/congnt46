@@ -52,6 +52,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></span>
+&nbsp;
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>

@@ -58,6 +58,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/></span>
+&nbsp;
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>

@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tran Hoang Huy</h1>
+<h1 align="center">Hi 👋, I'm Cong Nguyen</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tran.huy.27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tran.huy.27" height="30" width="40" /></a>
+<a href="https://fb.com/congpeter.46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="congpeter.46" height="30" width="40" /></a>
 <a href="https://instagram.com/tranhuy.2707/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tranhuy.2707/" height="30" width="40" /></a>
 </p>
 
@@ -66,7 +66,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Tuki277">
+  <a href="#" title="congnt">
     <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuki277&hide=php,python,less&langs_count=8&layout=compact" />
   </a>
   <a href="#" title="Tuki277">

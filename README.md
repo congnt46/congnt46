@@ -67,10 +67,10 @@
 <br>
 <div align=center>
   <a href="#" title="congnt">
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuki277&hide=php,python,less&langs_count=8&layout=compact" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congnt&hide=php,python,less&langs_count=8&layout=compact" />
   </a>
-  <a href="#" title="Tuki277">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Tuki277&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="congnt">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=congnt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 

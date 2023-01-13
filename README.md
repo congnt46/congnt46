@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, nodejs, javascript, typescript**
 
-- 📫 How to reach me **congpeter.46@gmail.com**
+- 📫 How to reach me **congnt.vietnam@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/congpeter46/](https://www.linkedin.com/in/congpeter46/)
 

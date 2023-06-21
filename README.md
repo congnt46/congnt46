@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **WELITE** and **ENJIN**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1XpQ1YvNBEv9udZ4l5hGqWYiltPSQVdWo/view?usp=sharing](https://drive.google.com/file/d/1XpQ1YvNBEv9udZ4l5hGqWYiltPSQVdWo/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [google document](https://drive.google.com/file/d/1XpQ1YvNBEv9udZ4l5hGqWYiltPSQVdWo/view?usp=sharing)
 
 - 💬 Ask me about **react, nodejs, javascript, typescript**
 
-- 📫 How to reach me **congnt.vietnam@gmail.com**
+- 📫 How to reach me: <a href="mailto:congnt.vietnam@gmail.com">my email</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/congpeter46/](https://www.linkedin.com/in/congpeter46/)
+- 📄 Know about my experiences at [my linkedin](https://www.linkedin.com/in/congpeter46/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

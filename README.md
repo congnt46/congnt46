@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=congnt46" alt="congnt46" /></a> </p>
 
-- 🔭 I’m currently working on **WELITE** and **ENJIN**
+- 🔭 I’m currently working on **WELITE**
 
 - 👨‍💻 All of my projects are available at [google document](https://drive.google.com/file/d/1XpQ1YvNBEv9udZ4l5hGqWYiltPSQVdWo/view?usp=sharing)
 
